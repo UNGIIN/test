@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": true,
   "refreshSourceControl": true,
-  "basePath": "git@gitcode.com:UNGIIN/test.git",
+  "basePath": "git@gitcode.com:UNGIIN/test.git;git@gitcode.com:UNGIIN/test1.git",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
