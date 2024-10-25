@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0f73818c60f75759",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ae7615d25a15d79",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +147,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30b1fba412237f3b",
+  "active": "411a90dae0087506",
   "lastOpenFiles": [
     "test.git",
     "欢迎.md"
